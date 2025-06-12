@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ## 현재 진행중인 프로젝트
-<hr/>
 특정 사이트에 대한 스크래핑
 (https://github.com/7hokerz/myapp2)[프로젝트 보기]
 
