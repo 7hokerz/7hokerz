@@ -2,7 +2,7 @@
 
 ## 현재 진행중인 프로젝트
 특정 사이트에 대한 스크래핑
-(https://github.com/7hokerz/myapp2)[프로젝트 보기]
+[프로젝트 보기](https://github.com/7hokerz/myapp2)
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7hokerz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
