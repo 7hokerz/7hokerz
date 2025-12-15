@@ -23,6 +23,14 @@
 2. 서버 사이드 및 네트워크 최적화
 3. 트레이드오프 분석 및 결론
 
+#### 사이트
+
+- 기능 테스트 사이트 
+(추후 게시 예정)
+
+- 해당 기능이 포함된 실서비스 운영 사이트 
+[(인공지능기반 학습 도움 문제 자동 생성 사이트)](https://quizgen.kr)
+
 #### Repository
 
 - [Frontend](https://github.com/7hokerz/transcribe-frontend)
