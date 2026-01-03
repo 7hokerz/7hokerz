@@ -32,10 +32,16 @@
 [(인공지능기반 학습 도움 문제 자동 생성 사이트)](https://quizgen.kr)
 
 #### Repository
+  - [Frontend](https://github.com/7hokerz/transcribe-frontend)
 
-- [Frontend](https://github.com/7hokerz/transcribe-frontend)
+  - [Backend](https://github.com/7hokerz/transcribe-backend)
 
-- [Backend](https://github.com/7hokerz/transcribe-backend)
+
+#### 추가 작업 중 (예정)
+  - Cloud Tasks (태스크 큐) 도입
+  - FFmpeg 트랜스코딩 도입
+  - API 서버와 전사 워커 서버 분리
+
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7hokerz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
