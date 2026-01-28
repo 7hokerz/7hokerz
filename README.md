@@ -4,7 +4,7 @@
 
 ### Firebase/Genkit
 - [firebase/genkit#4209](https://github.com/firebase/genkit/pull/4209) - Fixed a regression bug in multi-modal image input processing
-
+- [firebase/genkit#4263](https://github.com/firebase/genkit/pull/4263) - Fixed a type overload shadowing bug in OpenAI models
 
 ## 진행중인 프로젝트
 
