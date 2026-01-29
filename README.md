@@ -6,6 +6,13 @@
 - [firebase/genkit#4209](https://github.com/firebase/genkit/pull/4209) - Fixed a regression bug in multi-modal image input processing
 - [firebase/genkit#4263](https://github.com/firebase/genkit/pull/4263) - Fixed a type overload shadowing bug in OpenAI models
 
+<details>
+<summary> 그 외 기여 목록 </summary>
+
+- [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - generalize file naming and add transcribe model
+
+</details>
+
 ## 진행중인 프로젝트
 
 ### 서버에만 모든 작업을 몰아주지 마세요: 스트리밍 아키텍처로 구현한 오디오 추출 & 업로드 최적화 시스템
