@@ -9,7 +9,8 @@
 <details>
 <summary> 그 외 기여 목록 </summary>
 
-- [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - generalize file naming and add transcribe model
+- [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - generalized file naming and add transcribe model
+- [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
 
 </details>
 
