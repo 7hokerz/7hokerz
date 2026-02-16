@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-## 🏆 Contribution
-
-### Firebase/Genkit
-- [firebase/genkit#4209](https://github.com/firebase/genkit/pull/4209) - Fixed a regression bug in multi-modal image input processing
-- [firebase/genkit#4263](https://github.com/firebase/genkit/pull/4263) - Fixed a type overload shadowing bug in OpenAI models
-
-<details>
-<summary> 그 외 기여 목록 </summary>
-
-- [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - generalized file naming and add transcribe model
-- [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
-
-</details>
-
 ## 진행중인 프로젝트
 
 ### 서버에만 모든 작업을 몰아주지 마세요: 스트리밍 아키텍처로 구현한 오디오 추출 & 업로드 최적화 시스템
@@ -51,6 +37,20 @@
   - FFmpeg 트랜스코딩 도입
   - API 서버와 전사 워커 서버 분리
 
+
+## 🏆 Contribution
+
+### Firebase/Genkit
+- [firebase/genkit#4209](https://github.com/firebase/genkit/pull/4209) - Fixed a regression bug in multi-modal image input processing
+- [firebase/genkit#4263](https://github.com/firebase/genkit/pull/4263) - Fixed a type overload shadowing bug in OpenAI models
+
+<details>
+<summary> 그 외 기여 목록 </summary>
+
+- [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - generalized file naming and add transcribe model
+- [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
+
+</details>
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7hokerz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
