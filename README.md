@@ -22,13 +22,11 @@
 
 - 기능 테스트 사이트 
 (추후 게시 예정)
-
 - 해당 기능이 포함된 실서비스 운영 사이트 
 [(인공지능기반 학습 도움 문제 자동 생성 사이트)](https://quizgen.kr)
 
 #### Repository
   - [Frontend](https://github.com/7hokerz/transcribe-frontend)
-
   - [Backend](https://github.com/7hokerz/transcribe-backend)
 
 
@@ -49,6 +47,7 @@
 
 - [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - generalized file naming and add transcribe model
 - [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
+- [firebase/genkit#4330](https://github.com/firebase/genkit/pull/4330) - Added unit tests for OpenAI audio module
 
 </details>
 
