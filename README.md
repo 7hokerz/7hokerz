@@ -39,13 +39,16 @@
 ## 🏆 Contribution
 
 ### Firebase/Genkit
-- [firebase/genkit#4209](https://github.com/firebase/genkit/pull/4209) - Fixed a regression bug in multi-modal image input processing
-- [firebase/genkit#4263](https://github.com/firebase/genkit/pull/4263) - Fixed a type overload shadowing bug in OpenAI models
+- [firebase/genkit#4209](https://github.com/firebase/genkit/pull/4209) - Fixed regression bug in multi-modal image input processing
+- [firebase/genkit#4263](https://github.com/firebase/genkit/pull/4263) - Fixed type overload shadowing bug in OpenAI models
+
+### googleapis/nodejs-storage
+- [googleapis/nodejs-storage#2716](https://github.com/googleapis/nodejs-storage/pull/2716) - Fixed missing bucket name in Signed URL V4 during emulator mode
 
 <details>
 <summary> 그 외 기여 목록 </summary>
 
-- [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - generalized file naming and add transcribe model
+- [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - Generalized file naming and add transcribe model
 - [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
 - [firebase/genkit#4330](https://github.com/firebase/genkit/pull/4330) - Added unit tests for OpenAI audio module
 
