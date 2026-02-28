@@ -51,7 +51,8 @@
 - [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - Generalized file naming and add transcribe model
 - [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
 - [firebase/genkit#4330](https://github.com/firebase/genkit/pull/4330) - Added unit tests for OpenAI audio module
-- [firebase/genkit#4708](https://github.com/firebase/genkit/pull/4708) - Fixed non-working for OpenAI transcription 
+- [firebase/genkit#4708](https://github.com/firebase/genkit/pull/4708) - Fixed non-working for OpenAI transcription
+- [firebase/genkit#4786](https://github.com/firebase/genkit/pull/4786) - Added adapter and unit tests for OpenAI translation 
 
 </details>
 
