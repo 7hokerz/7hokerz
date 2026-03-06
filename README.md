@@ -45,6 +45,9 @@
 ### googleapis/nodejs-storage
 - [googleapis/nodejs-storage#2716](https://github.com/googleapis/nodejs-storage/pull/2716) - Fixed missing bucket name in Signed URL V4 during emulator mode
 
+### google-gemini/gemini-cli
+- [google-gemini/gemini-cli#21123](https://github.com/google-gemini/gemini-cli/pull/21123) - Prevented unhandled AbortError crash during stream loop detection
+
 <details>
 <summary> 그 외 기여 목록 </summary>
 
