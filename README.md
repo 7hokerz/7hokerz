@@ -48,6 +48,9 @@
 ### google-gemini/gemini-cli
 - [google-gemini/gemini-cli#21123](https://github.com/google-gemini/gemini-cli/pull/21123) - Prevented unhandled AbortError crash during stream loop detection
 
+### nodejs/undici
+- [nodejs/undici#5509](https://github.com/nodejs/undici/pull/5009) - Updated JSDoc comments to reflect missing changes
+
 <details>
 <summary> 그 외 기여 목록 </summary>
 
