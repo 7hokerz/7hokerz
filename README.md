@@ -58,7 +58,8 @@
 - [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
 - [firebase/genkit#4330](https://github.com/firebase/genkit/pull/4330) - Added unit tests for OpenAI audio module
 - [firebase/genkit#4708](https://github.com/firebase/genkit/pull/4708) - Fixed non-working for OpenAI transcription
-- [firebase/genkit#4786](https://github.com/firebase/genkit/pull/4786) - Added adapter and unit tests for OpenAI translation 
+- [firebase/genkit#4786](https://github.com/firebase/genkit/pull/4786) - Added adapter and unit tests for OpenAI translation
+- [firebase/genkit#5036](https://github.com/genkit-ai/genkit/pull/5036) - Explicitly allow null types in promptDir
 
 </details>
 
