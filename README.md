@@ -51,6 +51,11 @@
 ### nodejs/undici
 - [nodejs/undici#5509](https://github.com/nodejs/undici/pull/5009) - Updated JSDoc comments to reflect missing changes
 
+### DefinitelyTyped/DefinitelyTyped
+
+#### @types/pdfkit
+- [DefinitelyTyped/DefinitelyTyped#74884](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/74884) - Replaced NodeJS.ReadableStream type with stream.Readable
+
 <details>
 <summary> 그 외 기여 목록 </summary>
 
