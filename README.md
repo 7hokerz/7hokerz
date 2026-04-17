@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 진행중인 프로젝트
+## Ongoing Project
 
 ### 서버에만 모든 작업을 몰아주지 마세요: 스트리밍 아키텍처로 구현한 오디오 추출 & 업로드 최적화 시스템
 **2025.08 - 진행 중** | 개인 & 학교 프로젝트
@@ -11,14 +11,14 @@
 - Infrastructure: Google Cloud Run, Firebase App Hosting, Firebase Storage
 - External API: OpenAI STT API
 
-**주요 개선**
+**Key Improvements**
 - **웹워커** 기반 FFmpeg.wasm 처리로 메인 스레드 블로킹 방지 및 UX 개선
 - **청크 단위 분할 및 스트리밍 처리**로 외부 API의 파일 크기 제한 해결
 - **적응형 업로드 및 백프레셔 패턴**으로 사용자 네트워크 환경별 최적화
 - **스트리밍 아키텍처** 구현으로 서버 메모리 사용량 **97%** 감소
 - 독립 Connection Pool 구성으로 외부 API 통신 안정성 향상
 
-#### 사이트
+#### Site
 
 - 기능 테스트 사이트 
 (추후 게시 예정)
@@ -57,7 +57,7 @@
 - [DefinitelyTyped/DefinitelyTyped#74884](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/74884) - Replaced NodeJS.ReadableStream type with stream.Readable
 
 <details>
-<summary> 그 외 기여 목록 </summary>
+<summary> Full Contribution List </summary>
 
 - [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - Generalized file naming and add transcribe model
 - [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
