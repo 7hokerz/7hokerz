@@ -30,7 +30,7 @@
   - [Backend](https://github.com/7hokerz/transcribe-backend)
 
 
-#### 추가 작업 중 (예정)
+#### In Progress
   - Cloud Tasks (태스크 큐) 도입
   - FFmpeg 트랜스코딩 도입
   - API 서버와 전사 워커 서버 분리
@@ -38,9 +38,9 @@
 
 ## 🏆 Contribution
 
-### Firebase/Genkit
-- [firebase/genkit#4209](https://github.com/firebase/genkit/pull/4209) - Fixed regression bug in multi-modal image input processing
-- [firebase/genkit#4263](https://github.com/firebase/genkit/pull/4263) - Fixed type overload shadowing bug in OpenAI models
+### genkit-ai/genkit
+- [genkit-ai/genkit#4209](https://github.com/genkit-ai/genkit/pull/4209) - Fixed regression bug in multi-modal image input processing
+- [genkit-ai/genkit#4263](https://github.com/genkit-ai/genkit/pull/4263) - Fixed type overload shadowing bug in OpenAI models
 
 ### googleapis/nodejs-storage
 - [googleapis/nodejs-storage#2716](https://github.com/googleapis/nodejs-storage/pull/2716) - Fixed missing bucket name in Signed URL V4 during emulator mode
@@ -59,12 +59,13 @@
 <details>
 <summary> Full Contribution List </summary>
 
-- [firebase/genkit#4280](https://github.com/firebase/genkit/pull/4280) - Generalized file naming and add transcribe model
-- [firebase/genkit#4497](https://github.com/firebase/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
-- [firebase/genkit#4330](https://github.com/firebase/genkit/pull/4330) - Added unit tests for OpenAI audio module
-- [firebase/genkit#4708](https://github.com/firebase/genkit/pull/4708) - Fixed non-working for OpenAI transcription
-- [firebase/genkit#4786](https://github.com/firebase/genkit/pull/4786) - Added adapter and unit tests for OpenAI translation
-- [firebase/genkit#5036](https://github.com/genkit-ai/genkit/pull/5036) - Explicitly allow null types in promptDir
+- [genkit-ai/genkit#4280](https://github.com/genkit-ai/genkit/pull/4280) - Generalized file naming and add transcribe model
+- [genkit-ai/genkit#4497](https://github.com/genkit-ai/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
+- [genkit-ai/genkit#4330](https://github.com/genkit-ai/genkit/pull/4330) - Added unit tests for OpenAI audio module
+- [genkit-ai/genkit#4708](https://github.com/genkit-ai/genkit/pull/4708) - Fixed non-working for OpenAI transcription
+- [genkit-ai/genkit#4786](https://github.com/genkit-ai/genkit/pull/4786) - Added adapter and unit tests for OpenAI translation
+- [genkit-ai/genkit#5036](https://github.com/genkit-ai/genkit/pull/5036) - Explicitly allow null types in promptDir
+- [genkit-ai/genkit#5201](https://github.com/genkit-ai/genkit/pull/5201) - Fixed ValidationResponse type and cache ajv validators
 
 </details>
 
