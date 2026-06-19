@@ -28,7 +28,7 @@
 - 기능 테스트 사이트 
 (추후 게시 예정)
 - 해당 기능이 포함된 실서비스 운영 사이트 
-[(인공지능기반 학습 도움 문제 자동 생성 사이트)](https://quizgen.kr)
+[Quizgen.kr - 인공지능기반 학습 도움 문제 자동 생성 사이트](https://quizgen.kr)
 
 #### Repository
   - [Frontend](https://github.com/7hokerz/transcribe-frontend)
