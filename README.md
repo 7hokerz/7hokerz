@@ -43,34 +43,28 @@
 
 ## 🏆 Contribution
 
-### genkit-ai/genkit
-- [genkit-ai/genkit#4209](https://github.com/genkit-ai/genkit/pull/4209) - Fixed regression bug in multi-modal image input processing
-- [genkit-ai/genkit#4263](https://github.com/genkit-ai/genkit/pull/4263) - Fixed type overload shadowing bug in OpenAI models
-
-### googleapis/nodejs-storage
-- [googleapis/nodejs-storage#2716](https://github.com/googleapis/nodejs-storage/pull/2716) - Fixed missing bucket name in Signed URL V4 during emulator mode
-
-### google-gemini/gemini-cli
-- [google-gemini/gemini-cli#21123](https://github.com/google-gemini/gemini-cli/pull/21123) - Prevented unhandled AbortError crash during stream loop detection
-
-### nodejs/undici
-- [nodejs/undici#5509](https://github.com/nodejs/undici/pull/5009) - Updated JSDoc comments to reflect missing changes
-
-### DefinitelyTyped/DefinitelyTyped
-
-#### @types/pdfkit
-- [DefinitelyTyped/DefinitelyTyped#74884](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/74884) - Replaced NodeJS.ReadableStream type with stream.Readable
+| Repository | PR | Summary |
+| --- | --- | --- |
+| `firebase/firebase-tools` | [#10669](https://github.com/firebase/firebase-tools/pull/10669) | Added the `apphosting:secrets:revokeaccess` command |
+| `genkit-ai/genkit` | [#4209](https://github.com/genkit-ai/genkit/pull/4209) | Preserved legacy image URL handling when `contentType` is missing |
+| `google-gemini/gemini-cli` | [#21123](https://github.com/google-gemini/gemini-cli/pull/21123) | Prevented unhandled `AbortError` crashes during stream loop detection |
+| `googleapis/nodejs-storage` | [#2716](https://github.com/googleapis/nodejs-storage/pull/2716) | Fixed V4 policy URL generation in emulator mode |
+| `nodejs/undici` | [#5009](https://github.com/nodejs/undici/pull/5009) | Updated JSDoc to reflect the `allowH2` default value |
+| `DefinitelyTyped/DefinitelyTyped` | [#74884](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/74884) | Replaced `NodeJS.ReadableStream` with `stream.Readable` in `@types/pdfkit` |
 
 <details>
 <summary> Full Contribution List </summary>
 
-- [genkit-ai/genkit#4280](https://github.com/genkit-ai/genkit/pull/4280) - Generalized file naming and add transcribe model
-- [genkit-ai/genkit#4497](https://github.com/genkit-ai/genkit/pull/4497) - Replaced deprecated module and fixed non-working model name
-- [genkit-ai/genkit#4330](https://github.com/genkit-ai/genkit/pull/4330) - Added unit tests for OpenAI audio module
-- [genkit-ai/genkit#4708](https://github.com/genkit-ai/genkit/pull/4708) - Fixed non-working for OpenAI transcription
-- [genkit-ai/genkit#4786](https://github.com/genkit-ai/genkit/pull/4786) - Added adapter and unit tests for OpenAI translation
-- [genkit-ai/genkit#5036](https://github.com/genkit-ai/genkit/pull/5036) - Explicitly allow null types in promptDir
-- [genkit-ai/genkit#5201](https://github.com/genkit-ai/genkit/pull/5201) - Fixed ValidationResponse type and cache ajv validators
+| Repository | PR | Summary |
+| --- | --- | --- |
+| `genkit-ai/genkit` | [#4263](https://github.com/genkit-ai/genkit/pull/4263) | Fixed type overload shadowing for OpenAI models with specific suffixes |
+| `genkit-ai/genkit` | [#4280](https://github.com/genkit-ai/genkit/pull/4280) | Generalized STT module naming and added `gpt-4o-mini-transcribe` |
+| `genkit-ai/genkit` | [#4330](https://github.com/genkit-ai/genkit/pull/4330) | Added test coverage for the audio module |
+| `genkit-ai/genkit` | [#4497](https://github.com/genkit-ai/genkit/pull/4497) | Fixed Google AI provider and model configuration in test apps |
+| `genkit-ai/genkit` | [#4708](https://github.com/genkit-ai/genkit/pull/4708) | Fixed invalid model ID errors in transcription models |
+| `genkit-ai/genkit` | [#4786](https://github.com/genkit-ai/genkit/pull/4786) | Added translation adapter and translation flow in test apps |
+| `genkit-ai/genkit` | [#5036](https://github.com/genkit-ai/genkit/pull/5036) | Explicitly allowed `null` types in `promptDir` |
+| `genkit-ai/genkit` | [#5201](https://github.com/genkit-ai/genkit/pull/5201) | Fixed `ValidationResponse` typing and cached AJV validators |
 
 </details>
 
