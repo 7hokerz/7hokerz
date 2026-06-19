@@ -43,6 +43,15 @@
 
 ## 🏆 Contribution
 
+<p>
+  <a href="https://github.com/firebase/firebase-tools"><img src="https://avatars.githubusercontent.com/u/1335026?s=48&v=4" alt="Firebase" width="32" height="32" /></a>
+  <a href="https://github.com/genkit-ai/genkit"><img src="https://avatars.githubusercontent.com/u/166032008?s=48&v=4" alt="Genkit" width="32" height="32" /></a>
+  <a href="https://github.com/google-gemini/gemini-cli"><img src="https://avatars.githubusercontent.com/u/161781182?s=48&v=4" alt="Google Gemini" width="32" height="32" /></a>
+  <a href="https://github.com/googleapis/nodejs-storage"><img src="https://avatars.githubusercontent.com/u/16785467?s=48&v=4" alt="Google APIs" width="32" height="32" /></a>
+  <a href="https://github.com/nodejs/undici"><img src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4" alt="Node.js" width="32" height="32" /></a>
+  <a href="https://github.com/DefinitelyTyped/DefinitelyTyped"><img src="https://avatars.githubusercontent.com/u/3637556?s=48&v=4" alt="DefinitelyTyped" width="32" height="32" /></a>
+</p>
+
 | Repository | PR | Summary |
 | --- | --- | --- |
 | `firebase/firebase-tools` | [#10669](https://github.com/firebase/firebase-tools/pull/10669) | Added the `apphosting:secrets:revokeaccess` command |
